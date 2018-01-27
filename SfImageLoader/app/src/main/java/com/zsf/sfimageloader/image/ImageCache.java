@@ -6,7 +6,7 @@ import android.util.LruCache;
 /**
  * @author EWorld
  * @e-mail 852333743@qq.com
- * @description 用于处理图片缓存
+ * @description 用于处理图片缓存内存缓存
  */
 
 public class ImageCache {
